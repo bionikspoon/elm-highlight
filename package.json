@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "basscss": "^8.0.3"
+  },
+  "name": "elm-highlight",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "author": "Manu Phatak <manu@thinkcerca.com>",
+  "license": "MIT"
+}
