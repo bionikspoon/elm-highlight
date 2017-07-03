@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "basscss": "^8.0.3"
+    "basscss": "^8.0.3",
+    "normalize.css": "^7.0.0"
   },
   "name": "elm-highlight",
   "version": "0.0.0",

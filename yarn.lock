@@ -61,3 +61,7 @@ basscss@^8.0.3:
     basscss-position "^2.0.3"
     basscss-type-scale "^1.0.5"
     basscss-typography "^3.0.3"
+
+normalize.css@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/normalize.css/-/normalize.css-7.0.0.tgz#abfb1dd82470674e0322b53ceb1aaf412938e4bf"
